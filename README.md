@@ -1,0 +1,22 @@
+# WeatherApp
+Simple weather search based on OpenWeather
+<img width="960" alt="1688689895921" src="https://github.com/KarenYu729/WeatherApp/assets/97644710/7530b59f-7976-4b5b-aae9-5606029a5a1c">
+Background image will not always be the same, actually, it shows random images for each location. When first visite the website, the default image will be set as from London, also the default weather report city is also set as London. 
+
+## functions
+### search weather 
+In the html file, we have a search box to get the name of the city, and a search icon for click.
+In the css file, we set the height, color, width, font etc of the search bar.
+In js, we have fetchWeather function, this is to get info about the weather (json), as shown below in the js files.
+Also, we have the search function, this is the function do exact "search", fetchWeather is get the search result.
+### show weather
+displayWeather function in JS
+### add listener
+click (search button) or enter (search box)
+
+# Reference
+<a>https://www.youtube.com/watch?v=WZNG8UomjSI</a>
+<a>https://openweathermap.org/current</a>
+<a>https://react-icons.github.io/react-icons/search?q=search</a>
+<a>https://fonts.google.com/specimen/Ysabeau+Infant</a>
+<a>https://unsplash.com/documentation</a>
