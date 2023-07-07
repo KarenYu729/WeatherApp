@@ -1,6 +1,7 @@
 # WeatherApp
 Simple weather search based on OpenWeather
-<img width="960" alt="1688689895921" src="https://github.com/KarenYu729/WeatherApp/assets/97644710/7530b59f-7976-4b5b-aae9-5606029a5a1c">
+![image](https://github.com/KarenYu729/WeatherApp/assets/97644710/a38c844f-9193-4951-a180-a6de630deb38)
+
 Background image will not always be the same, actually, it shows random images for each location. When first visite the website, the default image will be set as from London, also the default weather report city is also set as London. 
 
 ## functions
