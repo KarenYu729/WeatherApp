@@ -29,6 +29,7 @@ click (search button) or enter (search box)
 
 # Other Insights
 <img width="919" alt="1688691172569" src="https://github.com/KarenYu729/WeatherApp/assets/97644710/e6c6bf93-1d84-4cb3-bb01-7dd1d5acbee3">
+
 We can also show background images based on the weather by changeing only one line in js:
 
 <div>document.body.style.backgroundImage = "url('https://source.unsplash.com/1600x900/?" + name + "')"</div>
