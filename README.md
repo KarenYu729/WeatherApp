@@ -1,7 +1,7 @@
 # WeatherApp
 Simple weather search based on OpenWeather
 
-<a href="https://karenyu729.github.io/WeatherApp/" target="_blank">Weather App</a>
+<a href="https://karenyu729.github.io/WeatherApp/" target="blank">Weather App</a>
 
 ![image](https://github.com/KarenYu729/WeatherApp/assets/97644710/a38c844f-9193-4951-a180-a6de630deb38)
 
